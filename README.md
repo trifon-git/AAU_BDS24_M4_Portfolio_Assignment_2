@@ -31,23 +31,3 @@ Key functions/classes implemented in the notebook:
 # Extract labels as lists
 # Prediction function
 ```
-
-## How to Run
-1. Clone this repository:
-   ```sh
-   git clone <repository_url>
-   cd <repository_name>
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook:
-   ```sh
-   jupyter notebook Deep_Learning_Second_Assignment.ipynb
-   ```
-
-## License
-This project is for educational purposes.
-
----
